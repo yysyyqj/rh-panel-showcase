@@ -1,0 +1,14 @@
+# 只允许展示类文件
+*.exe
+*.zip
+*.7z
+*.rar
+*.pem
+*.key
+*.user.yaml
+*.json
+!package.json
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
